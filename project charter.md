@@ -25,3 +25,9 @@ a. Khushali Bhatt
 b. Dhananjay Patel
 c. Kishan Kalubhai Kothari
 d. Bhavinkumar Patel
+
+Document Version: Version 1.0.0
+
+Revision Date: 05/24/2024
+
+Revision By: Khushali Bhatt (Project Manager)
