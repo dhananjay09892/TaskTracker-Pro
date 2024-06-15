@@ -1,6 +1,6 @@
 # Name of file: README.md 
 # Description: This file contains the description of the project.
-# Author of the file: Dhananjay patel 
+# Author of the file: Dhananjay Patel and Khushali Bhatt
 # Created on: 15th June 2024
 
 # Project Name: TaskTracker Pro 
